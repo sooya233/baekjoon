@@ -26,4 +26,3 @@ def h(num):
 n = int(input())
 if n<=1000:
     result = h(n)
-    print(result)

@@ -1,0 +1,14 @@
+.idea/
+venv/Lib/
+venv/pyvenv.cfg
+venv/Scripts/activate
+venv/Scripts/activate.bat
+venv/Scripts/Activate.ps1
+venv/Scripts/deactivate.bat
+venv/Scripts/easy_install.exe
+venv/Scripts/easy_install-3.9.exe
+venv/Scripts/pip.exe
+venv/Scripts/pip3.9.exe
+venv/Scripts/pip3.exe
+venv/Scripts/python.exe
+venv/Scripts/pythonw.exe
